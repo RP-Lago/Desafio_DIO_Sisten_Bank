@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {
+            "nome": "Robson Pereira",
+            "data_nascimento": "12-12-2000",
+            "cpf": "12345678912",
+            "endereco": "Av: Amador, 01 - Jd Ivone - Suzano/SP "
+        }
+    ],
+    "contas": [
+        {
+            "agencia": "0001",
+            "numero_conta": 1,
+            "usuario": {
+                "nome": "Robson Pereira",
+                "data_nascimento": "12-12-2000",
+                "cpf": "12345678912",
+                "endereco": "Av: Amador, 01 - Jd Ivone - Suzano/SP "
+            },
+            "saldo": 15000.0,
+            "limite": 500.0,
+            "extrato": [
+                "02/09/2024 23:06:03 - Dep\u00f3sito: R$ 15000.00"
+            ],
+            "numero_saques": 0,
+            "LIMITE_SAQUES": 3
+        }
+    ]
+}
